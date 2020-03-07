@@ -1,0 +1,40 @@
+# eclipse
+bin
+*.launch
+.settings
+.metadata
+.classpath
+.project
+
+# idea
+out
+*.ipr
+*.iws
+*.iml
+.idea
+
+# gradle
+build
+.gradle
+
+# other
+eclipse
+run
+
+# Files from Forge MDK
+forge*changelog.txt
+/src/main/resources/assets/testmod/models/item/basic_item.json
+/src/main/resources/assets/testmod/textures/item/basic_item.png
+/build.gradle
+/changelog.txt
+/CREDITS.txt
+/src/main/resources/assets/testmod/lang/en_us.json
+/gradle.properties
+/gradle/wrapper/gradle-wrapper.jar
+/gradle/wrapper/gradle-wrapper.properties
+/gradlew
+/gradlew.bat
+/LICENSE.txt
+/src/main/resources/META-INF/mods.toml
+/src/main/resources/pack.mcmeta
+/README.txt
