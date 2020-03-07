@@ -38,3 +38,8 @@ forge*changelog.txt
 /src/main/resources/META-INF/mods.toml
 /src/main/resources/pack.mcmeta
 /README.txt
+/src/main/resources/assets/testmod/blockstates/basic_block.json
+/src/main/resources/assets/testmod/models/block/basic_block.json
+/src/main/resources/assets/testmod/models/item/basic_block.json
+/src/main/resources/data/testmod/loot_tables/blocks/basic_block.json
+/src/main/resources/assets/testmod/textures/block/basic_block.png
